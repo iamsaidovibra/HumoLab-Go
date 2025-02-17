@@ -61,7 +61,8 @@ func ArePointsEqual(p1, p2 Point) bool {
 }
 
 func main() {
-	// PrintStudentInfo("Student Info:", first)
+	//fmt.Println("Student Info:")
+	// PrintStudentInfo(first)
 	fmt.Println()
 	// fmt.Println("Area:", rect.area(), "Perimeter:", rect.perimeter())
 	// fmt.Println(user1)
